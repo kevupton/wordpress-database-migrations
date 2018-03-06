@@ -1,0 +1,13 @@
+{
+    "name": "kevupton/wordpress-database-migrations",
+    "description": "Log the requests made in the database and saves them in versions",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Kevin Upton",
+            "email": "uptonkg@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
